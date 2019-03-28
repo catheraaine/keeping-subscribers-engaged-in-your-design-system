@@ -1,0 +1,52 @@
+slides:
+  -
+    options:
+      id: basics
+      class: section-card
+      background: "#318c9b"
+    content: |
+      # Get the Basics Right
+
+    notes: |
+      * A good way to frustrate your PR reviewer is to send them something with no context
+
+  -
+    content: |
+      ![Bad PR Example](images/bad-pr.png) <!-- .element: style="max-height: 100vh" -->
+    notes: |
+      * You could respond in kind,
+
+  -
+    content: |
+      ![Bad PR Example](images/long-bad-pr.png) <!-- .element: style="max-height: 100vh" -->
+
+
+  -
+    content: |
+      ![Good PR Example](images/better-pr.png) <!-- .element: style="max-height: 85vh" -->
+
+    notes: |
+      * A few extra minutes to write a thoughtful PR description can go a long way toward easing the work of the reviewer. We try to include:
+
+  -
+    content: |
+      ### We try to include:
+      * A quick summary of the work being done. <!-- .element: class="fragment" -->
+      * A link to any related stories or issues. <!-- .element: class="fragment" -->
+      * A link or screenshot of the original design work. <!-- .element: class="fragment" -->
+      * Step-by-step testing instructions. <!-- .element: class="fragment" -->
+
+    notes: |
+      * A quick summary of the work being done, usually matching your commit descriptions.
+      * A link to any related stories or issues, like a JIRA card.
+      * A link or screenshot of the original design work. As a dev, I love screenshots in addition to design files, as I can use them for quick reference.
+      * Step-by-step testing instructions, including how to run Linters or tests, how to navigate to the new work, and how, specifically, the new work is meant to function.
+
+  -
+    content: |
+      ![Good PR Example](images/better-pr.png) <!-- .element: style="max-height: 85vh" -->
+
+    notes: |
+      * Bryan has hit a number of these, here.
+      * Pull Requests should be written in the context of the developer reviewing the work.
+      * A PR to a developer who is only doing review or QA may look completely different that a PR written to someone who wrote the build process.
