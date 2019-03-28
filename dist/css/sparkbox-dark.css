@@ -893,15 +893,16 @@ table tbody tr:last-child td {
 
 .reveal .title-card .slide-one__heading {
   color: #ed59a9;
-  font-size: 6rem;
+  font-size: 5rem;
   max-width: 60%;
   padding: 4rem 0;
 }
 
 .reveal .title-card .slide-one__image {
   max-width: 35%;
-  margin-bottom: -3rem;
+  margin-bottom: -2rem;
   padding: 0;
+  margin-left: 0.5rem;
 }
 
 .reveal .title-card .slide-one__image, .reveal .title-card .slide-one__heading {
