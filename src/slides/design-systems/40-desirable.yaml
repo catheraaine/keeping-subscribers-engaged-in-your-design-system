@@ -43,8 +43,10 @@ slides:
 
   -
     content: |
-      ## Hubspot - Rotating Design System Team
-      "Your system should be owned by all."
+      ### Hubspot
+      
+      > "Your system should be owned by all." <!-- .element style="padding-left: 5.5rem;" -->
+      
       [bit.ly/ds-hubspot]( http://bit.ly/ds-hubspot)
 
     notes: |

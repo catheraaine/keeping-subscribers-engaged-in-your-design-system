@@ -7,10 +7,45 @@ slides:
     content: |
       # Funded
     notes: |
-      * Notes
+      * If you want a team to take your design system seriously, try taking it seriously yourself, by building a team.
+      * Having a funded product with a committed product owner or development team will help users treat your design system as “real.”
+
   -
     content: |
-      ![Coding Kitty Gif](images/cat-codes.gif) <!-- .element: style="max-height: 100%" -->
+      ## Funding ➡ Deliverables
 
     notes: |
-      * The first step to having a good design system is, well, having a good design system. 
+      * When an organization spends money, they expect to get something in return. A budget requires a design system team to produce deliverables on a regular schedule. 
+      * These deliverables are most often going to be a subscriber shipping something built with design system content.
+
+  -
+    content: |
+      ## Funding ➡ Process
+
+    notes: |
+      * Identifying deliverables for your design system turns into deadlines for those deliverables. "I want new form components, but I need them for our summer rebuild."
+      * Deadlines will often turn into project sprints and roadmaps. 
+
+  -
+    content: |
+      ## Where is the Money? 💰 
+      
+      * UX/Design <!-- .element class="fragment" -->
+      * Research & Development <!-- .element class="fragment" -->
+      * Tech Debt <!-- .element class="fragment" -->
+
+    notes: |
+      * Finding the budget to support even a part-time team of designers, developers, and project management on your “idea” of a system may seem difficult or even impossible at first. 
+      * Look for funding in interesting places. 
+      * UX and design have a potential vested interest, as design systems often create consistency throughout branded experiences. 
+      * If your team has an R&D budget that can be a great place to create “startup” or "skunkworks" kind of projects. 
+      * If your team works under one of the many models that makes time for tech debt, perhaps your design system can be built alongside refactoring of duplicate components.
+
+  - 
+    content: |
+      ![a cat, holding a stack of dollars, swatting at a human hand](https://i.chzbgr.com/full/8558902272/h158E7FB8/)
+
+    notes: |
+      * If there is truly no funding to be had, attempt to find people who have a personal stake in the success of a system to work on a proof of concept. However, as soon as you have a proof of concept, look for funding again.
+      * Funded design systems succeed, because there is a dedicated team building and improving the system.
+      * We all have side projects sitting alone in forgottenrepositories. Don't let a design system become one.
