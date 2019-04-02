@@ -1,15 +1,13 @@
 slides:
   -
     options:
-      id: be-nice
+      id: documented
       class: section-card
       background: "#318c9b"
     content: |
-      # Give Valuable Feedback: Be Nice
-
+      # Documented
     notes: |
-      * One last way to make your PRs friendlier is to, well, be friendly.
-      * A spat via GitHub comments is no way to collaborate, and let’s face it, we know communication via text doesn’t always communicate tone (a good reason to use emoji 😁 ).
+      * Notes
 
   -
     content: |

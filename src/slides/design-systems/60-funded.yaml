@@ -1,11 +1,13 @@
 slides:
   -
     options:
-      id: with-video
+      id: funded
       class: section-card
       background: "#318c9b"
     content: |
-      # Enhance Your Pull Request: with Video
+      # Funded
+    notes: |
+      * Notes
 
     notes: |
       * An important aspect of a complicated PR is the ability to walk someone through your code.

@@ -1,14 +1,13 @@
 slides:
   -
     options:
-      id: basics
+      id: answer
       class: section-card
       background: "#318c9b"
     content: |
-      # Get the Basics Right
-
+      # Solution.
     notes: |
-      * A good way to frustrate your PR reviewer is to send them something with no context
+      * Notes
 
   -
     content: |

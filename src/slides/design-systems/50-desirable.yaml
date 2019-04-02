@@ -1,11 +1,13 @@
 slides:
   -
     options:
-      id: with-gif
+      id: desirable
       class: section-card
       background: "#318c9b"
     content: |
-      # Enhance Your Pull Request: with Gif
+      # Desireable
+    notes: |
+      * Notes
 
   -
     content: |
