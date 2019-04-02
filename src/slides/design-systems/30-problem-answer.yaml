@@ -50,8 +50,8 @@ slides:
   -
     content: |
       ###### The Answer: <!-- .element: class="short-title" -->
-      ## Your Design System <br /> = Your <span class="fragment">Desirable, </span><span class="fragment">Funded, </span><span class="fragment">Teachable, </span><span class="fragment">Attentive, </span><span class="fragment">Documented, </span><span class="fragment">Branded, </span><span class="fragment">Adaptable </span>Product. 
+      ## Your Design System <br /> = Your <span class="fragment">Desirable, </span><span class="fragment">Funded, </span><span class="fragment">Teachable, </span><span class="fragment">Attentive, </span><span class="fragment">Documented, </span><span class="fragment">Adaptable, </span><span class="fragment">Branded </span>Product. 
 
     notes: |
-      * Your design system is your Desirable, Funded, Teachable, Attentive, Documented, Branded, Adaptable Product.
+      * Your design system is your Desirable, Funded, Teachable, Attentive, Documented, Adaptable, Branded Product.
       * So let's build a product that's all that, then _maybe_ people will want to use it. No promises.

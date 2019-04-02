@@ -24,7 +24,7 @@ slides:
     notes: |
       * We try to be available to pair with the developers and designers using what we’ve built. 
       * Twice a week my current team will hold "office hours," where any subscriber can come hang out with us and ask questions about the system.
-      * Be present in locations where pairing is easy, either online or in person.
+      * Hold your office hours in locations where pairing is easy, either online or in person.
 
   - 
     content: | 
@@ -68,3 +68,4 @@ slides:
     notes: |
       * All of these things make using a design system easier by limiting the roadblocks of learning.
       * Eventually product teams can teach one another without much intervention.
+      * Being present and available to help your users implement design system components shares the burden of change that often prevents humans from wanting to adopt a new dependency.

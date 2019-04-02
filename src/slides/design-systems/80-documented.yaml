@@ -7,12 +7,60 @@ slides:
     content: |
       # Documented
     notes: |
-      * Notes
+      * Documentation is so, so important.
+      * If you skimp on documentation while building a website, people can probably still figure it out.
+      * If you skimp on documentation while building a design system, nobody is going to use it at all. 
+      * Having an easy-to-use UI to display the content is just as important as writing good developer documentation. 
 
   -
     content: |
-      ![Coding Kitty Gif](images/cat-codes.gif) <!-- .element: style="max-height: 100%" -->
+      ### SemVer for the Win!
+      
+      [semver.org](https://semver.org/)
 
     notes: |
-      * The first step to having a good design system is, well, having a good design system. 
+      * Develop a plan for semantic versioning, whether it be SemVer or something unique to your team. 
+      * Then, version components consistently so subscribers understand exactly what a version update means.
+      * Document it well.
 
+  -
+    content: |
+      ### Name things.
+
+      (.ellipses != .ellipsis) <!-- .element class="fragment" -->
+
+    notes: |
+      * Everything from component class names to color variables should be named in a thoughtful way.
+      * Deprecating mistakes in naming can make a system clunky, annoying, or even unusable. 
+      * Some mishaps are minor, but reduce credibility of your whole system. 
+      * I like to use BEM naming conventions, because people smarter than me have written the documentation, but whatever works for your team is fine.
+      * The one thing I wished I had done and will do forever in the future is develop a design system namespace from day one.
+      * Document it well.
+
+  -
+    content: |
+      ### Build a documentation site.
+
+    notes: |
+      * Design system teams are often small and a good documentation website (affectionately called “docs site”) often helps users solve their own problems without direct intervention from your team. 
+      * Luckily for us, our product owner is a fantastic UX designer, as well as our biggest advocate, so our docsite looks awesome. I can't show you, but trust me.
+      * Your team may need to pull in outside resources to design documentation that is readable by humans. Spend some stakeholder interview time on this, too.
+
+  - 
+    content: |
+      ![a screenshot of accessibility documentation on the carbon design system site](/images/ds-carbon--docs.png)
+      
+      [carbondesignsystem.com](https://www.carbondesignsystem.com/guidelines/accessibility/overview)
+
+    notes: |
+      * IBM's Carbon Design System is my current developer crush, it's something like a gold standard for react-based design systems.
+      * Carbon doesn't have the flashiest docs site, but they do have tons and tons of written guidelines. 
+      * This documentation is expansive, covering all sorts of things such as, how to implement the system, onboarding for designers and developers, best practices for accessibility, content and more, and documentation about why decisions were made.
+
+  -
+    content: |
+      ## Document it well.
+
+    notes: |
+      * We can all empathize with discovering the tool we think will solve all our problems only to find the documentation wanting.
+      * Don't let your design system end that way.

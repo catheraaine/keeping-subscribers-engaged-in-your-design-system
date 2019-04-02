@@ -20,13 +20,13 @@ slides:
       * We’ve also added a link to our documentation site that goes to a Google Form for those who wish to provide anonymous feedback. 
   -
     content: |
-      ![a screenshot of pluarlsight's contributing page](ds-pluralsight--contribute.png)
+      ![a screenshot of pluarlsight's contributing page](images/ds-pluralsight--contribute.png)
 
       [design-system.pluralsight.com](https://design-system.pluralsight.com/contribute/)
 
     notes: |
       * Remember that pluralsight example? They have this bright orange "open an issue" button on every single page.
-      * Full disclosure: Our subscribers rarely submit feedback via the form on our site, as they prefer to reach out personally via chat whenever they have questions.
+      * Full disclosure–Our subscribers rarely submit feedback via the form on our site, as they prefer to reach out personally via chat whenever they have questions.
 
   - 
     content: |
