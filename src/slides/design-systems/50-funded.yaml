@@ -28,6 +28,15 @@ slides:
 
   -
     content: |
+      ![a screenshot of the pluralsight roadmap page](images/ds-pluralsight--roadmap.png)
+      
+      [design-system.pluralsight.com](https://design-system.pluralsight.com/roadmap/)
+
+    notes: |
+      * The Pluralsight design system does a really nice job of documenting their roadmap. They not only have links to their soon-to-be-built components, but there's an open link to their project board and repository.
+
+  -
+    content: |
       ## Where is the Money? 💰 
       
       * UX/Design <!-- .element class="fragment" -->
