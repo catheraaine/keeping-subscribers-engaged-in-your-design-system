@@ -4,15 +4,68 @@ slides:
       id: branded
       class: section-card
       background: "#318c9b"
+
     content: |
       # Branded
+
     notes: |
-      * Notes
+      * Around Sparkbox, there's an ongoing joke that a "pattern library" turns into a "design system" once you give it a name. 
+      * That might not be far from the truth.
+      * Our last adjective is also the most fun. Your system needs a brand.
 
   -
     content: |
-      ![Coding Kitty Gif](images/cat-codes.gif) <!-- .element: style="max-height: 100%" -->
+      ## Name Your System
 
     notes: |
-      * The first step to having a good design system is, well, having a good design system. 
+      * When a design system has a name—a brand—it can become a real product. 
+      * Some of the best names are drawn from punny vernacular relevant to the product your team produces. They probably even start as jokes.
+      * Our ecom design system for clothing brands is named after a sewing term.
+      * Hillary Clinton's campaign design system was named "Pantsuit," after her staple outfit.
 
+  -
+    content: |
+      ![screenshot of the shopify polaris site](images/ds-polaris.png)
+
+      [polaris.shopify.com](https://polaris.shopify.com/)
+
+    notes: |
+      * Shopify's "Polaris" design system has some truly beautiful branding, named after the guiding north star.
+      * The site uses purple and gold throughout, to continue the stary theme.
+
+  - 
+    content: |
+      ## Make It Official
+
+    notes: |
+      * Once you have a name, the next step is to brand your domain.
+      * An official sounding domain, such as "atlassian dot design" or "carbon design system dot com" lends instant credibility to your design system. 
+      * Plus, branded domain names are way easier to remember and thus easier for subscribers to find and use.
+  -
+    content: |
+      ![screenshot of the trello nachos site](images/ds-nachos.png)
+
+      [design.trello.com](https://design.trello.com/)
+
+    notes: |
+      * Another of my favorite design system branding strategies is "Nachos" by Trello. 
+      * The whole system is fun and friendly, with the Trello mascot, Taco the Dog leading the way. 
+      * Plus, Nachos has some of the best design guidelines I've seen in a system. And I've looked at a LOT.
+      * Branding your design system is a key step toward marketing.
+  -
+    content: |
+      ## Send Newsletters
+
+      ![the business cat meme](images/business-cat.jpg)
+
+    notes: |
+      * Consistent marketing of a design system—and its updates—helps keep subscribers engaged.
+      * One way our design system encourages the adoption of version updates is by creating a "business case" for every major or minor version.
+      * We send out email and messaging announcements with links to our release notes, a quick overview of what’s new and what’s changed, and an answer to the question, "Why Should I Update?" Writing a strong, persuasive answer to this question for every release has improved our subscriber buy-in quite a bit.
+
+  -
+    content: |
+      ## Maintain Interest with Marketing
+
+    notes: |
+      * notes

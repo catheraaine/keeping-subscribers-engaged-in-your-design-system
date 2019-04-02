@@ -4,15 +4,49 @@ slides:
       id: adaptable
       class: section-card
       background: "#318c9b"
+
     content: |
       # Adaptable
+
     notes: |
-      * Notes
+      * On a design system team, some endeavors—even when thoughtfully approached—are guesswork– predicting potential brand updates, estimating upcoming component work, forecasting political decisions, or prioritizing pipeline changes. 
+      * Chances are, some of our guesses are going to be wrong. 
+      * What can we do to minimize the guesswork and make educated choices?
 
   -
     content: |
-      ![Coding Kitty Gif](images/cat-codes.gif) <!-- .element: style="max-height: 100%" -->
+      ## Iterate as the need arises. 
 
-    notes: |
-      * The first step to having a good design system is, well, having a good design system. 
+    notes: | 
+      * For every major decision, our design system team interviews stakeholders to validate assumptions we make.
+      * This is especially important if your design system team is not directly implementing the designs, elements, and components in the product environment. 
+      * The goal is to make well-informed, educated guesses as often as possible. Sparkbox takes great pride in our skills at forecasting and estimating engagements, so it makes sense that when we are building design systems, we aim to correctly forecast our product teams’ work.
 
+  -
+    content: |
+      ## Iterate as the need arises.
+
+    notes: 
+      * Recently, our design system has had to grow to support many more teams building brand new React Components. 
+      * We haven’t completely solved this problem, but we will have to stretch and reform the old system to meet the new needs.
+      * We get better with every iteration.
+
+  - 
+    content: |
+
+      <blockquote>Individuals commit the sunk cost fallacy when they continue a behavior or endeavor as a result of previously invested resources (time, money or effort) (Arkes & Blumer, 1985).</blockquote>
+
+      [behavioraleconomics.com](https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/sunk-cost-fallacy/)
+
+    notes: 
+      * The Sunk Cost fallacy is puplic enenmy number one as a design system ages.
+      * We spend so much time and resources building and perfecting and documenting that when something isn't working, we fight tooth and nail to keep it anyway. 
+      * Be aware of sunk cost and willing to pivot away from things that do not benefit your subscribers.
+
+  -
+    content: |
+      ## Your system has to be willing to change and grow. 
+
+    notes: 
+      * My technical director loves to tell us to "fail fast." Recognize that "fast" for a design system can be months or longer. 
+      * Attempt to validate every assumption with the developers, designers, and content managers who actually use the system you are building, and iterate on the feedback you receive. 
