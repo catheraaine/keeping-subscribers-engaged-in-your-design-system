@@ -7,24 +7,51 @@ slides:
     content: |
       # So what's the problem?
     notes: |
-      * Notes
+      * So what is our problem?
+    
+  -
+    content: |
+      ###### Not Asking: <!-- .element: class="short-title" -->
+      ## How do I get people on board with building a design system? <!-- .element: style="font-size: 1.5em" -->
+
+    notes: |
+      * I am not here to sell you on a design system. There are plenty of resources to help you decide if it is the right choice for your team. I would be more than happy to have a chat with you afterward, if you're considering it. 
+      * Instead, let's focus on the challenges of getting people to use the cool thing you've built. 
+      * Even if you aren't working on a design system, I hope you find worth in some of the things I'm going to talk about.
 
   -
     content: |
-      ![Good Story Example](images/good-story.png) <!-- .element: style="max-height: 100vh" -->
+      # How do we encourage people to keep using our design system?
 
     notes: |
-      * A story should include the requirements of the work and a potential solution (if you have one in mind).
-      * A story or issue doesn’t need to be overly complicated, but should be easy to understand.
-      * A well-written story makes for clear requirements when it comes time to PR.
-      * This leads you to my first tool recomendation, and the only one that BitBucket doesn't yet have.
+      * The design system I've been working on for nearly three years is not new. It was first thought of in 2015, and released to beta in early 2016. 
+      * We've gone through five major versions, that's five releases of exciting new components and messy breaking changes. We've had huge successes, such as changing every instance of a major brand color and or the entire font profile of multiple brands almost at the flip of a switch.
+      * We've had huge failures, components that go unused or outdated, JavaScript that does nothing but sit in a repository, and a number of late night patch releases. 
+      * And still I end up asking myself this question on a regular basis. 
+  -
+    content: |
+      ![why do design systems fail?](/images/ds-survey-chart.png) <!-- .element: style="max-height:80vh" -->
+
+      [designsystemssurvey.seesparkbox.com](https://designsystemssurvey.seesparkbox.com/)
+
+    notes: |
+      * The Sparkbox design systems survey asked the question, why do you think your design system failed? 
+      * There were a lot of answers, from lack of executive champion to funding issues. In my mind, all of these answers boil down to one thing. 
+      * These failing systems were not considered products.
 
   -
     content: |
-      ![Issue template example](images/issue-template.png) <!-- .element: style="max-height: 20rem" -->
-      ### Github Issue Templates
-      ##### [tiny.cc/github-issue-templates](https://github.com/blog/2111-issue-and-pull-request-templates)
-      ###### via GitHub
+      ###### The Answer: <!-- .element: class="short-title" -->
+      ## Your Design System <br /> = Your Product. 
 
     notes: |
-      * Issue Templates (and PR Templates) allow you to add a markdown file to your root directory to outline the issue process.
+      * In order to convince subscribers to use your design system, you must treat it like a product. 
+      * That's it. From here on out, the rest should make sense. If we give our design systems the same attention we give any other product we build, it has a much higher chance of long-term success.
+  -
+    content: |
+      ###### The Answer: <!-- .element: class="short-title" -->
+      ## Your Design System <br /> = Your <span class="fragment">Desirable, </span><span class="fragment">Funded, </span><span class="fragment">Teachable, </span><span class="fragment">Attentive, </span><span class="fragment">Documented, </span><span class="fragment">Branded, </span><span class="fragment">Adaptable </span>Product. 
+
+    notes: |
+      * Your design system is your Desirable, Funded, Teachable, Attentive, Documented, Branded, Adaptable Product.
+      * So let's build a product that's all that, then _maybe_ people will want to use it. No promises.

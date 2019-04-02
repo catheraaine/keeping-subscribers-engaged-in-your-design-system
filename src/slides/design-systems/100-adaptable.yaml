@@ -1,0 +1,18 @@
+slides:
+  -
+    options:
+      id: adaptable
+      class: section-card
+      background: "#318c9b"
+    content: |
+      # Adaptable
+    notes: |
+      * Notes
+
+  -
+    content: |
+      ![Coding Kitty Gif](images/cat-codes.gif) <!-- .element: style="max-height: 100%" -->
+
+    notes: |
+      * The first step to having a good design system is, well, having a good design system. 
+

@@ -130,128 +130,64 @@ Notes:* A design system can be a architeture device that provides both brand exp
   <section data-markdown data-separator-notes="^Notes:"id="problem"class="slide section-card"data-background="#318c9b">
     <script type="text/template">
       # So what's the problem?
-Notes:* Notes
+Notes:* So what is our problem?
 </script>
   </section>
   <section data-markdown data-separator-notes="^Notes:"class="slide ">
     <script type="text/template">
-      ![Good Story Example](images/good-story.png) <!-- .element: style="max-height: 100vh" -->
-Notes:* A story should include the requirements of the work and a potential solution (if you have one in mind).
-* A story or issue doesn’t need to be overly complicated, but should be easy to understand.
-* A well-written story makes for clear requirements when it comes time to PR.
-* This leads you to my first tool recomendation, and the only one that BitBucket doesn&#x27;t yet have.
+      ###### Not Asking: <!-- .element: class="short-title" -->
+## How do I get people on board with building a design system? <!-- .element: style="font-size: 1.5em" -->
+Notes:* I am not here to sell you on a design system. There are plenty of resources to help you decide if it is the right choice for your team. I would be more than happy to have a chat with you afterward, if you&#x27;re considering it. 
+* Instead, let&#x27;s focus on the challenges of getting people to use the cool thing you&#x27;ve built. 
+* Even if you aren&#x27;t working on a design system, I hope you find worth in some of the things I&#x27;m going to talk about.
 </script>
   </section>
   <section data-markdown data-separator-notes="^Notes:"class="slide ">
     <script type="text/template">
-      ![Issue template example](images/issue-template.png) <!-- .element: style="max-height: 20rem" -->
-### Github Issue Templates
-##### [tiny.cc/github-issue-templates](https://github.com/blog/2111-issue-and-pull-request-templates)
-###### via GitHub
-Notes:* Issue Templates (and PR Templates) allow you to add a markdown file to your root directory to outline the issue process.
+      # How do we encourage people to keep using our design system?
+Notes:* The design system I&#x27;ve been working on for nearly three years is not new. It was first thought of in 2015, and released to beta in early 2016. 
+* We&#x27;ve gone through five major versions, that&#x27;s five releases of exciting new components and messy breaking changes. We&#x27;ve had huge successes, such as changing every instance of a major brand color and or the entire font profile of multiple brands almost at the flip of a switch.
+* We&#x27;ve had huge failures, components that go unused or outdated, JavaScript that does nothing but sit in a repository, and a number of late night patch releases. 
+* And still I end up asking myself this question on a regular basis.
 </script>
   </section>
+  <section data-markdown data-separator-notes="^Notes:"class="slide ">
+    <script type="text/template">
+      ![why do design systems fail?](/images/ds-survey-chart.png) <!-- .element: style="max-height:80vh" -->
 
-  <section data-markdown data-separator-notes="^Notes:"id="answer"class="slide section-card"data-background="#318c9b">
-    <script type="text/template">
-      # Solution.
-Notes:* Notes
+[designsystemssurvey.seesparkbox.com](https://designsystemssurvey.seesparkbox.com/)
+Notes:* The Sparkbox design systems survey asked the question, why do you think your design system failed? 
+* There were a lot of answers, from lack of executive champion to funding issues. In my mind, all of these answers boil down to one thing. 
+* These failing systems were not considered products.
 </script>
   </section>
   <section data-markdown data-separator-notes="^Notes:"class="slide ">
     <script type="text/template">
-      ![Bad PR Example](images/bad-pr.png) <!-- .element: style="max-height: 100vh" -->
-Notes:* You could respond in kind,
+      ###### The Answer: <!-- .element: class="short-title" -->
+## Your Design System <br /> = Your Product.
+Notes:* In order to convince subscribers to use your design system, you must treat it like a product. 
+* That&#x27;s it. From here on out, the rest should make sense. If we give our design systems the same attention we give any other product we build, it has a much higher chance of long-term success.
 </script>
   </section>
   <section data-markdown data-separator-notes="^Notes:"class="slide ">
     <script type="text/template">
-      ![Bad PR Example](images/long-bad-pr.png) <!-- .element: style="max-height: 100vh" -->
-Notes:</script>
-  </section>
-  <section data-markdown data-separator-notes="^Notes:"class="slide ">
-    <script type="text/template">
-      ![Good PR Example](images/better-pr.png) <!-- .element: style="max-height: 85vh" -->
-Notes:* A few extra minutes to write a thoughtful PR description can go a long way toward easing the work of the reviewer. We try to include:
-</script>
-  </section>
-  <section data-markdown data-separator-notes="^Notes:"class="slide ">
-    <script type="text/template">
-      ### We try to include:
-* A quick summary of the work being done. <!-- .element: class="fragment" -->
-* A link to any related stories or issues. <!-- .element: class="fragment" -->
-* A link or screenshot of the original design work. <!-- .element: class="fragment" -->
-* Step-by-step testing instructions. <!-- .element: class="fragment" -->
-Notes:* A quick summary of the work being done, usually matching your commit descriptions.
-* A link to any related stories or issues, like a JIRA card.
-* A link or screenshot of the original design work. As a dev, I love screenshots in addition to design files, as I can use them for quick reference.
-* Step-by-step testing instructions, including how to run Linters or tests, how to navigate to the new work, and how, specifically, the new work is meant to function.
-</script>
-  </section>
-  <section data-markdown data-separator-notes="^Notes:"class="slide ">
-    <script type="text/template">
-      ![Good PR Example](images/better-pr.png) <!-- .element: style="max-height: 85vh" -->
-Notes:* Bryan has hit a number of these, here.
-* Pull Requests should be written in the context of the developer reviewing the work.
-* A PR to a developer who is only doing review or QA may look completely different that a PR written to someone who wrote the build process.
+      ###### The Answer: <!-- .element: class="short-title" -->
+## Your Design System <br /> = Your <span class="fragment">Desirable, </span><span class="fragment">Funded, </span><span class="fragment">Teachable, </span><span class="fragment">Attentive, </span><span class="fragment">Documented, </span><span class="fragment">Branded, </span><span class="fragment">Adaptable </span>Product.
+Notes:* Your design system is your Desirable, Funded, Teachable, Attentive, Documented, Branded, Adaptable Product.
+* So let&#x27;s build a product that&#x27;s all that, then _maybe_ people will want to use it. No promises.
 </script>
   </section>
 
   <section data-markdown data-separator-notes="^Notes:"id="desirable"class="slide section-card"data-background="#318c9b">
     <script type="text/template">
       # Desireable
-Notes:* Notes
+Notes:* First up on that giant list of adjectives is &quot;desirable.&quot;
 </script>
   </section>
   <section data-markdown data-separator-notes="^Notes:"class="slide ">
     <script type="text/template">
       ![Coding Kitty Gif](images/cat-codes.gif) <!-- .element: style="max-height: 100%" -->
-Notes:* This is one of my favorites, because it is a Cat. Coding. It&#x27;s me.
-* But what if a gif can be more than a quick laugh?
-* Gifs are awesome for showing nav functionality, transitions, hover effects, animations, and pretty much any visual aspect of your work.
-* Gifs are especially useful for getting a design review of an animation or hover from someone who may not have the site running locally.
-</script>
-  </section>
-  <section data-markdown data-separator-notes="^Notes:"class="slide ">
-    <script type="text/template">
-      ![RecordiT Gif](images/record-it.gif) <!-- .element: style="height: 18rem" -->
-### Recordit
-##### [recordit.co](http://recordit.co/)
-Notes:* RecordIt is a screencasting service that lets you save your finished recording as a .gif and even gives you the hosted link.
-</script>
-  </section>
-  <section data-markdown data-separator-notes="^Notes:"class="slide ">
-    <script type="text/template">
-      ![RecordiT Gif](images/record-it.gif) <!-- .element: style="max-height: 100%" -->
-Notes:* An example is the Foundry, the Sparkbox blog: the CMS that the Foundry is built on is a big deal to set up, especially for a designer or project manager trying to review one or two lines of code or content.
-* By including a gif, you can give the necessary context and allow everyone to feel confident in what they are approving.
-</script>
-  </section>
-  <section data-markdown data-separator-notes="^Notes:"class="slide ">
-    <script type="text/template">
-      ![RecordiT Gif](images/record-it.gif) <!-- .element: style="height: 18rem" -->
-### Recordit
-##### [recordit.co](http://recordit.co/)
-Notes:* One downside to RecordIt is that it doesn’t currently support &#x60;https&#x60;, which means, as you may know, it cannot be embedded directly into a PR on GitHub, however, it can still work in Slack or via a link.
-</script>
-  </section>
-  <section data-markdown data-separator-notes="^Notes:"class="slide ">
-    <script type="text/template">
-      ![Gifox](images/gifox.png) <!-- .element: style="max-height: 60vh" -->
-### Gifox
-##### [gifox.io](https://gifox.io/)
-Notes:* As an alternative, I&#x27;ve recently discovered Gifox.
-* This is a native app that creates gifs you can host via GitHub just like an image.
-* Direct uploads give you the full privacy of your repo, so you&#x27;re hopefully not violating any security policies!
-* It does cost $5, or included if you have Setapp, and only works on MacOS.
-</script>
-  </section>
-  <section data-markdown data-separator-notes="^Notes:"class="slide ">
-    <script type="text/template">
-      ### LICEcap
-##### [licecap.en.softonic.com](https://licecap.en.softonic.com/)
-Notes:* If you are a Windows user, LICEcap is supposed to work well.
-* There are lots of gifing tools out there. It is mostly the thought that counts.
+Notes:* The first step to having a good design system is, well, having a good design system.
 </script>
   </section>
 
@@ -263,29 +199,8 @@ Notes:* Notes
   </section>
   <section data-markdown data-separator-notes="^Notes:"class="slide ">
     <script type="text/template">
-      ![govideo logo](images/vidyard.png) <!-- .element: style="height: 18rem" -->
-### GoVideo by Vidyard
-##### [vidyard.com/govideo/](https://www.vidyard.com/govideo/)
-Notes:* GoVideo is a Chrome Extension that lets a user record their screen, face, and voice all at once.
-* I know not everyone is a fan of Chrome, Vidyard does have a native app I haven&#x27;t tested.
-* Specifically, we used videos on an engagement where the main reviewer, me, was not dedicated to the project full-time.
-* Because I was not available for standups, did not have a direct hand in building the site, and wasn’t familiar with the changes being reviewed, the dev needed to explain the changes clearly for every PR.
-* GoVideo is one of my new favorite ways to start a code review, I’ve made you a video to prove just how helpful it can be.
-* I keep meaning to re-record this, but people tell me awkwarness is endearing.
-</script>
-  </section>
-  <section class="slide ">
-    
-      <video src="images/cat-explains-go-video.mp4" type="video/mp4"></video>
-<aside class="notes"></aside>
-  </section>
-  <section data-markdown data-separator-notes="^Notes:"class="slide ">
-    <script type="text/template">
-      ![govideo logo](images/vidyard.png) <!-- .element: style="height: 18rem" -->
-### GoVideo by Vidyard
-##### [vidyard.com/govideo/](https://www.vidyard.com/govideo/)
-Notes:* Depending on the size of the PR, a walk-through video only adds 5-10 minutes total to our setup time, but can potentially save the 30-60 minutes it might take to explain your PR via Slack or email (or scheduling a Zoom meeting).
-* Video walkthroughs are useful when pairing with developers who have different schedules, who are remote, or who are not as familiar with the engagement.
+      ![Coding Kitty Gif](images/cat-codes.gif) <!-- .element: style="max-height: 100%" -->
+Notes:* The first step to having a good design system is, well, having a good design system.
 </script>
   </section>
 
@@ -297,37 +212,8 @@ Notes:* Notes
   </section>
   <section data-markdown data-separator-notes="^Notes:"class="slide ">
     <script type="text/template">
-      ![Skitch Example](images/skitch.png) <!-- .element: style="height: 18rem" -->
-### Skitch by Evernote
-##### [evernote.com/products/skitch](https://evernote.com/products/skitch)
-Notes:* Skitch is a free app from Evernote, and probably my favorite thing on these slides. I use it _daily_.
-* Skitch is loved by Sparkbox for everything from full page decomps to quick design edits to making memes of coworkers.
-</script>
-  </section>
-  <section data-markdown data-separator-notes="^Notes:"class="slide ">
-    <script type="text/template">
-      ![Skitch Example](images/skitch.png) <!-- .element: style="height: 85vh" -->
-Notes:* Skitch provides elegant markup tools for drawing boxes, adding arrows, and highlighting necessary changes.
-* Take a screenshot (shift + command + 4 on macOS) and have at it.
-</script>
-  </section>
-  <section data-markdown data-separator-notes="^Notes:"class="slide ">
-    <script type="text/template">
-      ## More Feedback Feedback
-- Offer an alternative. <!-- .element: class="fragment" -->
-- Phone a friend. <!-- .element: class="fragment" -->
-- Choose which hills to die on. <!-- .element: class="fragment" -->
-- Keep the tone light. 😁 <!-- .element: class="fragment" -->
-Notes:* Offer an alternative. If you have constructive feedback, try offering an alternative solution. I like to provide links to examples if I can, too.
-* Phone a friend. If you find there is a disagrement that has passed back and forth a few times, call in a third person to be a tiebreaker. Since you all have two reviewers, you are probably already doing this. Be willing to admit when you are wrong if needed. This can be uncomfortable, yes, but smart people who admit their mistakes get a ton of respect from me.
-* Choose which hills to die on. If dangle commas are preferable, but they aren&#x27;t in the style guide, maybe let that one slide from time to time.
-* Keep the tone light. Have fun! Keep things lighthearted with bad jokes, emoji, and gifs. There are way too many dancing superhero gifs on the internet to not include them in your review approvals.
-</script>
-  </section>
-  <section data-markdown data-separator-notes="^Notes:"class="slide ">
-    <script type="text/template">
-      ![dancing guardians](https://31.media.tumblr.com/3fa344f683cf6af463a92bdd5acc8819/tumblr_inline_nfajw7xRYx1qfcc2a.gif) <!-- .element: style="width: 70vw" -->
-Notes:Your life needed this.
+      ![Coding Kitty Gif](images/cat-codes.gif) <!-- .element: style="max-height: 100%" -->
+Notes:* The first step to having a good design system is, well, having a good design system.
 </script>
   </section>
 
@@ -339,23 +225,9 @@ Notes:* Notes
   </section>
   <section data-markdown data-separator-notes="^Notes:"class="slide ">
     <script type="text/template">
-      ###### Bryan Braun, Sparkbox Developer
-## "Stop Giving Depressing Code Reviews"
-##### tiny.cc/foundry-braun
-Notes:* A coworker of mine, Bryan, whom you know, wrote an article about this topic.
-* The idea is to give as much positive code feedback as you do correction.
+      ![Coding Kitty Gif](images/cat-codes.gif) <!-- .element: style="max-height: 100%" -->
+Notes:* The first step to having a good design system is, well, having a good design system.
 </script>
-  </section>
-  <section class="slide ">
-    
-      <blockquote>“Giving positive feedback is an easy habit to adopt. You're already reading through the lines of code, looking for issues. It doesn't take much time to throw in a ‘Nice!’ or ‘Looks great!’ If you see something awesome, say it!”<br /> - Bryan Braun</blockquote>
-
-tiny.cc/foundry-braun
-<aside class="notes">* This is really difficult for me. My Meyers-Briggs type is a INTJ. Famous INTJs are such lovable characters, like Minecroft from Sherlock, Walter White from Breaking Bad, and Littlefinger from Game of Thrones. We&#x27;re not nice by default. We can be a little direct.
-* Sometimes positive feedback feels fake, but that&#x27;s okay. It won&#x27;t read that way.
-* I really like leading zeros on decimal points in CSS. In any language, I enjoy descriptive comments. I am always complimenting these things, and it may feel forced, but it is honest.
-* A few positive comments make a huge difference in overall tone of a review, whether you are speaking with developers, designers, or other team contributors.
-</aside>
   </section>
 
   <section data-markdown data-separator-notes="^Notes:"id="documented"class="slide section-card"data-background="#318c9b">
@@ -366,23 +238,9 @@ Notes:* Notes
   </section>
   <section data-markdown data-separator-notes="^Notes:"class="slide ">
     <script type="text/template">
-      ###### Bryan Braun, Sparkbox Developer
-## "Stop Giving Depressing Code Reviews"
-##### tiny.cc/foundry-braun
-Notes:* A coworker of mine, Bryan, whom you know, wrote an article about this topic.
-* The idea is to give as much positive code feedback as you do correction.
+      ![Coding Kitty Gif](images/cat-codes.gif) <!-- .element: style="max-height: 100%" -->
+Notes:* The first step to having a good design system is, well, having a good design system.
 </script>
-  </section>
-  <section class="slide ">
-    
-      <blockquote>“Giving positive feedback is an easy habit to adopt. You're already reading through the lines of code, looking for issues. It doesn't take much time to throw in a ‘Nice!’ or ‘Looks great!’ If you see something awesome, say it!”<br /> - Bryan Braun</blockquote>
-
-tiny.cc/foundry-braun
-<aside class="notes">* This is really difficult for me. My Meyers-Briggs type is a INTJ. Famous INTJs are such lovable characters, like Minecroft from Sherlock, Walter White from Breaking Bad, and Littlefinger from Game of Thrones. We&#x27;re not nice by default. We can be a little direct.
-* Sometimes positive feedback feels fake, but that&#x27;s okay. It won&#x27;t read that way.
-* I really like leading zeros on decimal points in CSS. In any language, I enjoy descriptive comments. I am always complimenting these things, and it may feel forced, but it is honest.
-* A few positive comments make a huge difference in overall tone of a review, whether you are speaking with developers, designers, or other team contributors.
-</aside>
   </section>
 
   <section data-markdown data-separator-notes="^Notes:"id="branded"class="slide section-card"data-background="#318c9b">
@@ -393,23 +251,9 @@ Notes:* Notes
   </section>
   <section data-markdown data-separator-notes="^Notes:"class="slide ">
     <script type="text/template">
-      ###### Bryan Braun, Sparkbox Developer
-## "Stop Giving Depressing Code Reviews"
-##### tiny.cc/foundry-braun
-Notes:* A coworker of mine, Bryan, whom you know, wrote an article about this topic.
-* The idea is to give as much positive code feedback as you do correction.
+      ![Coding Kitty Gif](images/cat-codes.gif) <!-- .element: style="max-height: 100%" -->
+Notes:* The first step to having a good design system is, well, having a good design system.
 </script>
-  </section>
-  <section class="slide ">
-    
-      <blockquote>“Giving positive feedback is an easy habit to adopt. You're already reading through the lines of code, looking for issues. It doesn't take much time to throw in a ‘Nice!’ or ‘Looks great!’ If you see something awesome, say it!”<br /> - Bryan Braun</blockquote>
-
-tiny.cc/foundry-braun
-<aside class="notes">* This is really difficult for me. My Meyers-Briggs type is a INTJ. Famous INTJs are such lovable characters, like Minecroft from Sherlock, Walter White from Breaking Bad, and Littlefinger from Game of Thrones. We&#x27;re not nice by default. We can be a little direct.
-* Sometimes positive feedback feels fake, but that&#x27;s okay. It won&#x27;t read that way.
-* I really like leading zeros on decimal points in CSS. In any language, I enjoy descriptive comments. I am always complimenting these things, and it may feel forced, but it is honest.
-* A few positive comments make a huge difference in overall tone of a review, whether you are speaking with developers, designers, or other team contributors.
-</aside>
   </section>
 
   <section data-markdown data-separator-notes="^Notes:"id="adaptable"class="slide section-card"data-background="#318c9b">
@@ -420,23 +264,9 @@ Notes:* Notes
   </section>
   <section data-markdown data-separator-notes="^Notes:"class="slide ">
     <script type="text/template">
-      ###### Bryan Braun, Sparkbox Developer
-## "Stop Giving Depressing Code Reviews"
-##### tiny.cc/foundry-braun
-Notes:* A coworker of mine, Bryan, whom you know, wrote an article about this topic.
-* The idea is to give as much positive code feedback as you do correction.
+      ![Coding Kitty Gif](images/cat-codes.gif) <!-- .element: style="max-height: 100%" -->
+Notes:* The first step to having a good design system is, well, having a good design system.
 </script>
-  </section>
-  <section class="slide ">
-    
-      <blockquote>“Giving positive feedback is an easy habit to adopt. You're already reading through the lines of code, looking for issues. It doesn't take much time to throw in a ‘Nice!’ or ‘Looks great!’ If you see something awesome, say it!”<br /> - Bryan Braun</blockquote>
-
-tiny.cc/foundry-braun
-<aside class="notes">* This is really difficult for me. My Meyers-Briggs type is a INTJ. Famous INTJs are such lovable characters, like Minecroft from Sherlock, Walter White from Breaking Bad, and Littlefinger from Game of Thrones. We&#x27;re not nice by default. We can be a little direct.
-* Sometimes positive feedback feels fake, but that&#x27;s okay. It won&#x27;t read that way.
-* I really like leading zeros on decimal points in CSS. In any language, I enjoy descriptive comments. I am always complimenting these things, and it may feel forced, but it is honest.
-* A few positive comments make a huge difference in overall tone of a review, whether you are speaking with developers, designers, or other team contributors.
-</aside>
   </section>
 
   <section id="closing"class="slide intros">
@@ -449,8 +279,17 @@ tiny.cc/foundry-braun
   <h4 class="twitter"><a href="https://twitter.com/catheraaine" target="_blank">@catheraaine</a> | cat@heysparkbox.com</h4>
   <h4 class="twitter"><a href="https://github.com/catheraaine/keeping-subscribers-engaged-in-your-design-system" target="_blank">bit.ly/meade-design-systems</a></h4>
 </div>
-<aside class="notes">*
+<aside class="notes">* That&#x27;s all I&#x27;ve got. Here&#x27;s my thank you slide.
 </aside>
+  </section>
+  <section data-markdown data-separator-notes="^Notes:"class="slide ">
+    <script type="text/template">
+      ### Resources 🐈 <!-- .element style="font-size: 85%" -->
+✨ [bit.ly/meade-design-systems](https://github.com/catheraaine/keeping-subscribers-engaged-in-your-design-system)
+<br />
+✨ [designsystemssurvey.seesparkbox.com](https://designsystemssurvey.seesparkbox.com/)
+Notes:* The first step to having a good design system is, well, having a good design system.
+</script>
   </section>
 
       </div>

@@ -12,8 +12,18 @@ slides:
       </div>
 
     notes: |
-      *
+      * That's all I've got. Here's my thank you slide. 
 
     options:
       class: intros
       id: closing
+  
+  -
+    content: |
+      ### Resources 🐈 <!-- .element style="font-size: 85%" -->
+      ✨ [bit.ly/meade-design-systems](https://github.com/catheraaine/keeping-subscribers-engaged-in-your-design-system)
+      <br />
+      ✨ [designsystemssurvey.seesparkbox.com](https://designsystemssurvey.seesparkbox.com/)
+
+    notes: |
+      * The first step to having a good design system is, well, having a good design system. 
