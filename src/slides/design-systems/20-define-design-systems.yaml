@@ -59,3 +59,13 @@ slides:
       * It can be a style guide, providing color palette, fonts, iconography, and animations, as well as tone and voice guidelines and so much more.
       * Whatever a design system means to you and your team, eventually we all ask the question, “How do we encourage people to keep using our design system?”
 
+  -
+    content: |
+      ###### Define: <!-- .element: class="short-title" -->
+      ## Subscriber
+
+    notes: |
+      * Beyond "design system", I say the word "subscriber" quite a bit. 
+      * In this case, a "subscriber" is someone who will implement the design system on a larger body of work.
+      * A subscriber can be a developer, designer, copy-writer, or product manager or owner.
+      * These sub-groups have different needs, and it may be worthwhile to identify which groups have a vested interest in each specific area of your system.

@@ -1,5 +1,13 @@
 slides:
   -
+    content: |
+      ### ✨Take the 2019 Sparkbox Design Systems Survey ✨
+      [bit.ly/sb-2019-survey](https://www.surveymonkey.com/r/V2SF3HL)
+
+    notes: |
+      * I'm supposed to tell you to take this survey if you're working in or around design systems. If you'd like to be a part of this year's data, check it out! 
+  
+  -
     markdown: false
     content: |
       <h5 class="util-margin-b050">Thanks!</h5>
@@ -21,9 +29,11 @@ slides:
   -
     content: |
       ### Resources 🐈 <!-- .element style="font-size: 85%" -->
-      ✨ [bit.ly/meade-design-systems](https://github.com/catheraaine/keeping-subscribers-engaged-in-your-design-system)
+      ✨Slide Repository
+      [bit.ly/meade-design-systems](https://github.com/catheraaine/keeping-subscribers-engaged-in-your-design-system)
       <br />
-      ✨ [designsystemssurvey.seesparkbox.com](https://designsystemssurvey.seesparkbox.com/)
-
-    notes: |
-      * The first step to having a good design system is, well, having a good design system. 
+      ✨Design Systems Survey 2018
+      [designsystemssurvey.seesparkbox.com](https://designsystemssurvey.seesparkbox.com/)
+      <br />
+      ✨Take the 2019 Design Systems Survey
+      [bit.ly/sb-2019-survey](https://www.surveymonkey.com/r/V2SF3HL)

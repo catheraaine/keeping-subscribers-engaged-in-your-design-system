@@ -4,14 +4,63 @@ slides:
       id: desirable
       class: section-card
       background: "#318c9b"
+    
     content: |
       # Desireable
+    
     notes: |
-      * First up on that giant list of adjectives is "desirable."
+      * Let's pick apart that giant list of adjectives, starting with "desirable."
+      * The first step to having a good design system is, well, having a good design system.
+      * A _desirable_ designs system is one people want to use. People will want to use it if it solves one or more problems they already have.
 
   -
     content: |
-      ![Coding Kitty Gif](images/cat-codes.gif) <!-- .element: style="max-height: 100%" -->
+      ## Find a frustration point your subscribers have, and ease it.
 
     notes: |
-      * The first step to having a good design system is, well, having a good design system. 
+      * Okay easy. Solve everyone's problems, and they'll use the thing we built. How do we do that?
+      * How do we identify the frustration points of our subscribers? 
+      * Some ideas. 
+
+  -
+    content: |
+      ## Have an Ambassador 
+
+    notes: |
+      * If your design system team is separate from your product development team, attend the product team’s standups or feature-planning meetings. 
+      * This gives your team an insiders' perspective–someone "on the ground" to identify potential pressure points before they become problems.
+      * The team I work on calls this role an "Ambassador."
+
+  -
+    content: |
+      ## Hold Stakeholder Interviews
+
+    notes: |
+      * Decide if a story will effect stakeholders in a meaningful way. If yes, schedule what we call a "stakeholder interview." Who has a stake in the way this story plays out?
+      * Assign one person to run the interview. Often, this will include a demo and questions in advance. The rest of the contributing team should attend, but their is to observe, learn, and ask questions, not to have discussion or try to persuade the interviewee. 
+      * Spend as much time as possible on the stakeholders' thoughts, your time with them is limited.
+      * Ultimately your design system team will make a decision on your own, but this decision should be informed by the information gathered in the stakeholder interviews. The decision may simply be a confirmation of your path forward.
+
+  -
+    content: |
+      ## Hubspot - Rotating Design System Team
+      "Your system should be owned by all."
+      [bit.ly/ds-hubspot]( http://bit.ly/ds-hubspot)
+
+    notes: |
+      * Alternatively, I want to point out Hubspot's rotating design system team.
+      * In this blog post, Hubspot explains their process for creating a design system team is to dedicate hours from product team members on a rotating, 6-month schedule. 
+      * The idea is that if the design system is owned by all, everyone has the opportunity to create something they'll have to use.
+      * There is a ton of context that comes from rotating onto a team while spending time is a subscriber; team members have an intimate understanding of subscriber problems.
+      * If your organization can accomplish this, or something like it, I think that is a brilliant option.
+  
+  -
+    content: |
+      ## Win trust by solving your subscriber’s problems.
+
+    notes: |
+      * No matter how you accomplish it, the trust gained by creating something useful for subscribers is priceless for a design system.
+      * This has encouraged adoption of our system by giving our subscribers something they really want.
+      * Nothing makes a team bump a version faster than finding out the solve to their current woes lies within the next release.
+
+ 
