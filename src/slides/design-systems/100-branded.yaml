@@ -41,8 +41,10 @@ slides:
       * Once you have a name, the next step is to brand your domain.
       * An official sounding domain, such as "atlassian dot design" or "carbon design system dot com" lends instant credibility to your design system. 
       * Plus, branded domain names are way easier to remember and thus easier for subscribers to find and use.
+  
   -
     content: |
+      
       ![screenshot of the trello nachos site](images/ds-nachos.png)
 
       [design.trello.com](https://design.trello.com/)
@@ -52,6 +54,7 @@ slides:
       * The whole system is fun and friendly, with the Trello mascot, Taco the Dog leading the way. 
       * Plus, Nachos has some of the best design guidelines I've seen in a system. And I've looked at a LOT.
       * Branding your design system is a key step toward marketing.
+
   -
     content: |
       ## Send Newsletters

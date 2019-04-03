@@ -20,15 +20,15 @@ slides:
     notes: | 
       * For every major decision, our design system team interviews stakeholders to validate assumptions we make.
       * This is especially important if your design system team is not directly implementing the designs, elements, and components in the product environment. 
-      * The goal is to make well-informed, educated guesses as often as possible. Sparkbox takes great pride in our skills at forecasting and estimating engagements, so it makes sense that when we are building design systems, we aim to correctly forecast our product teams’ work.
+      * The goal is to make well-informed, educated guesses as often as possible. Sparkbox takes great pride in our skills at forecasting and estimating engagements, so it makes sense that when we are building design systems, we aim to correctly forecast our product teams' work.
 
   -
     content: |
       ## Iterate as the need arises.
 
-    notes: 
+    notes: |
       * Recently, our design system has had to grow to support many more teams building brand new React Components. 
-      * We haven’t completely solved this problem, but we will have to stretch and reform the old system to meet the new needs.
+      * We haven't completely solved this problem, but we will have to stretch and reform the old system to meet the new needs.
       * We get better with every iteration.
 
   - 
@@ -38,8 +38,8 @@ slides:
 
       [behavioraleconomics.com](https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/sunk-cost-fallacy/)
 
-    notes: 
-      * The Sunk Cost fallacy is puplic enenmy number one as a design system ages.
+    notes: |
+      * The Sunk Cost fallacy is puplic enemy number one as a design system ages.
       * We spend so much time and resources building and perfecting and documenting that when something isn't working, we fight tooth and nail to keep it anyway. 
       * Be aware of sunk cost and willing to pivot away from things that do not benefit your subscribers.
 
@@ -47,6 +47,7 @@ slides:
     content: |
       ## Your system has to be willing to change and grow. 
 
-    notes: 
+    notes: |
       * My technical director loves to tell us to "fail fast." Recognize that "fast" for a design system can be months or longer. 
       * Attempt to validate every assumption with the developers, designers, and content managers who actually use the system you are building, and iterate on the feedback you receive. 
+    
