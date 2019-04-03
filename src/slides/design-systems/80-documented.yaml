@@ -27,7 +27,7 @@ slides:
     content: |
       ### Name things.
 
-      (.ellipses != .ellipsis) <!-- .element class="fragment" -->
+      `(.ellipses != .ellipsis)` <!-- .element class="fragment" -->
 
     notes: |
       * Everything from component class names to color variables should be named in a thoughtful way.
