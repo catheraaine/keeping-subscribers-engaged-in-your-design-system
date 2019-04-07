@@ -42,7 +42,7 @@ slides:
       ### Build a documentation site.
 
     notes: |
-      * Design system teams are often small and a good documentation website (affectionately called “docs site”) often helps users solve their own problems without direct intervention from your team. 
+      * Design system teams are often small, and a good documentation website (affectionately called a “docs site”) often helps users solve their own problems without direct intervention from your team. 
       * Luckily for us, our product owner is a fantastic UX designer, as well as our biggest advocate, so our docsite looks awesome. I can't show you, but trust me.
       * Your team may need to pull in outside resources to design documentation that is readable by humans. Spend some stakeholder interview time on this, too.
 

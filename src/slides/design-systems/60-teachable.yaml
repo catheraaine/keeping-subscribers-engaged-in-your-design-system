@@ -28,7 +28,7 @@ slides:
 
   - 
     content: | 
-      ### Digestable Changelog / Release Notes
+      ### Digestible Changelog / Release Notes
       [bit.ly/ds-release-notes](https://seesparkbox.com/foundry/writing_better_release_notes)
 
     notes: |
@@ -46,7 +46,7 @@ slides:
   
   -
     content: |
-      ### Internal Workshops <br /> & Lunch 'n Learns
+      ### Internal Workshops <br /> & Lunch 'n' Learns
 
     notes: |
       * When your system has a new feature, present it! 
@@ -68,4 +68,4 @@ slides:
     notes: |
       * All of these things make using a design system easier by limiting the roadblocks of learning.
       * Eventually product teams can teach one another without much intervention.
-      * Being present and available to help your users implement design system components shares the burden of change that often prevents humans from wanting to adopt a new dependency.
+      * Being present and available to help your subscribers implement design system components shares the burden of change that often prevents humans from wanting to adopt new dependencies.
