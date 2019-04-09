@@ -11,6 +11,7 @@ slides:
       * That is, your design system should be teachable.
   -
     content: |
+      ###### Build Something Teachable <!-- .element: class="short-title" -->
       ## Subscribers come first.
 
     notes: |
@@ -19,7 +20,8 @@ slides:
       
   -
     content: |
-      ### Office Hours
+      ###### Build Something Teachable <!-- .element: class="short-title" -->
+      ## Hold Regular Office Hours
 
     notes: |
       * We try to be available to pair with the developers and designers using what we’ve built. 
@@ -28,7 +30,8 @@ slides:
 
   - 
     content: | 
-      ### Digestible Changelog / Release Notes
+      ###### Build Something Teachable <!-- .element: class="short-title" -->
+      ## Create a Digestible <br /> Changelog / Release Notes
       [bit.ly/ds-release-notes](https://seesparkbox.com/foundry/writing_better_release_notes)
 
     notes: |
@@ -46,7 +49,8 @@ slides:
   
   -
     content: |
-      ### Internal Workshops <br /> & Lunch 'n' Learns
+      ###### Build Something Teachable <!-- .element: class="short-title" -->
+      ## Host Internal Workshops <br /> & Lunch 'n' Learns
 
     notes: |
       * When your system has a new feature, present it! 
@@ -54,7 +58,8 @@ slides:
 
   -
     content: |
-      ### Virtual Learning Library
+      ###### Build Something Teachable <!-- .element: class="short-title" -->
+      ## Develop a Virtual Learning Library
 
     notes: | 
       * One of the newest efforts our team has been working on is a "virtual learning library," which is a repository of recorded knowledge 
@@ -63,6 +68,7 @@ slides:
       * Our Library lives in our wiki, and there's a link in every chat channel. 
   -
     content: |
+      ###### Build Something Teachable <!-- .element: class="short-title" -->
       ## Subscribers come first.
 
     notes: |

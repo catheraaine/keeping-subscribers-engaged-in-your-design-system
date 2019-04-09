@@ -20,11 +20,12 @@ slides:
 
   -
     content: |
-      ## Funding ➡ Process
+      ## Funding ➡ Deliverables ➡ Process
 
     notes: |
       * Identifying deliverables for your design system turns into deadlines for those deliverables. "I want new form components, but I need them for our summer rebuild."
       * Deadlines will often turn into project sprints and roadmaps. 
+      * In other words, delevierables will establish process.
 
   -
     content: |

@@ -24,6 +24,7 @@ slides:
 
   -
     content: |
+      ###### Build Something Desirable <!-- .element: class="short-title" -->
       ## Have an Ambassador 
 
     notes: |
@@ -33,6 +34,7 @@ slides:
 
   -
     content: |
+      ###### Build Something Desirable <!-- .element: class="short-title" -->
       ## Hold Stakeholder Interviews
 
     notes: |
@@ -58,10 +60,11 @@ slides:
   
   -
     content: |
+      ###### Build Something Desirable <!-- .element: class="short-title" -->
       ## Win trust by solving your subscriber’s problems.
 
     notes: |
-      * No matter how you accomplish it, the trust gained by creating something useful for subscribers is priceless for a design system.
+      * No matter how you accomplish it, the trust gained by creating something desireable for subscribers is priceless for a design system.
       * This has encouraged adoption of our system by giving our subscribers something they really want.
       * Nothing makes a team bump a version faster than finding out the solve to their current woes lies within the next release.
 

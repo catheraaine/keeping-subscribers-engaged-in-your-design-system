@@ -14,7 +14,8 @@ slides:
 
   -
     content: |
-      ### SemVer for the Win!
+      ###### Document It Well <!-- .element: class="short-title" -->
+      ## SemVer for the Win!
       
       [semver.org](https://semver.org/)
 
@@ -25,7 +26,8 @@ slides:
 
   -
     content: |
-      ### Name things.
+      ###### Document It Well <!-- .element: class="short-title" -->
+      ## Name things.
 
       `(.ellipses != .ellipsis)` <!-- .element class="fragment" -->
 
@@ -39,7 +41,8 @@ slides:
 
   -
     content: |
-      ### Build a documentation site.
+      ###### Document It Well <!-- .element: class="short-title" -->
+      ## Build a documentation site.
 
     notes: |
       * Design system teams are often small, and a good documentation website (affectionately called a “docs site”) often helps users solve their own problems without direct intervention from your team. 

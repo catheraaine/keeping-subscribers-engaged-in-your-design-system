@@ -15,6 +15,7 @@ slides:
 
   -
     content: |
+      ###### Be Adaptable <!-- .element: class="short-title" -->
       ## Iterate as the need arises. 
 
     notes: | 
@@ -24,6 +25,7 @@ slides:
 
   -
     content: |
+      ###### Be Adaptable <!-- .element: class="short-title" -->
       ## Iterate as the need arises.
 
     notes: |
@@ -45,9 +47,10 @@ slides:
 
   -
     content: |
-      ## Your system has to be willing to change and grow. 
+      ### Your system has to <br /> be willing to change and grow. 
 
     notes: |
-      * My technical director loves to tell us to "fail fast." Recognize that "fast" for a design system can be months or longer. 
-      * Attempt to validate every assumption with the developers, designers, and content managers who actually use the system you are building, and iterate on the feedback you receive. 
+      * My technical director loves to tell us to "fail fast." 
+      * Recognize that "fast" for a design system can be months or longer. 
+      * Be attentive. Attempt to validate every assumption with the developers, designers, and content managers who actually use the system you are building, and iterate on the feedback you receive. 
     

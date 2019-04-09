@@ -1,6 +1,16 @@
 slides:
   -
     content: |
+      ######  <!-- .element: class="short-title" -->
+      ## Your Design System <br /> = Your <span class="fragment">Desirable, </span><span class="fragment">Funded, </span><span class="fragment">Teachable, </span><span class="fragment">Attentive, </span><span class="fragment">Documented, </span><span class="fragment">Adaptable, </span><span class="fragment">Branded </span>Product. 
+
+    notes: |
+      * All of these adjectives combined pack a mighty product punch. 
+      * Invest in your design system, build a network to support stakeholders, solve the problems of your product teams, attempt to validate every assumption with the developers, designers, and content managers who actually use the system you are building, and iterate on the feedback you receive, and then we should have something that people want to use.
+      * Maybe. It's hard to tell with people. 
+  
+  -
+    content: |
       ### ✨ Take the 2019 Sparkbox Design Systems Survey ✨
       [bit.ly/sb-2019-survey](https://www.surveymonkey.com/r/V2SF3HL)
 
@@ -20,7 +30,7 @@ slides:
       </div>
 
     notes: |
-      * That's all I've got. Here's my thank you slide. 
+      * That's all I've got.
 
     options:
       class: intros
@@ -30,6 +40,10 @@ slides:
     content: |
       ### ✨ Resources ✨ <!-- .element style="font-size: 85%" -->
       Slide Repository | [bit.ly/meade-design-systems](https://github.com/catheraaine/keeping-subscribers-engaged-in-your-design-system)
+
+      Slide PDF | [speakerdeck.com/catheraaine](https://speakerdeck.com/catheraaine)
+
+      Foundry Article | [http://bit.ly/ds-foundry](https://seesparkbox.com/foundry/keeping_subscribers_engaged_in_your_design_system)
       
       Design Systems Survey 2018 | [designsystemssurvey.seesparkbox.com](https://designsystemssurvey.seesparkbox.com/)
       

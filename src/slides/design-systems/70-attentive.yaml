@@ -13,7 +13,8 @@ slides:
 
   -
     content: |
-      ### Listen to your customer.
+      ###### Be Attentive <!-- .element: class="short-title" -->
+      ## Listen to your customer.
 
     notes: |
       * Our design system team set up a dedicated channel in Slack and Microsoft Teams, allowing constant contact with subscribers. 
@@ -30,7 +31,8 @@ slides:
 
   - 
     content: |
-      ### Listen to your customer.
+      ###### Be Attentive <!-- .element: class="short-title" -->
+      ## Listen to your customer.
 
     notes: |
       * Office hours and stakeholder interviews are awesome ways to encourage conversation throught the entire process.

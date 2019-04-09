@@ -16,14 +16,14 @@ slides:
 
     notes: |
       * I am not here to sell you on a design system. There are plenty of resources to help you decide if it is the right choice for your team. I would be more than happy to have a chat with you afterward, if you're considering it. 
-      * Instead, let's focus on the challenges of getting people to use the cool thing you've built. 
-      * Even if you aren't working on a design system, I hope you find worth in some of the things I'm going to talk about.
 
   -
     content: |
-      # How do we encourage people to keep using our design system?
+      ## How do we encourage people to keep using our design system?
 
     notes: |
+      * Instead, let's focus on the challenges of getting people to use the cool thing you've built. 
+      * Even if you aren't working on a design system, I hope you find worth in some of the things I'm going to talk about.
       * The design system I've been working on for nearly three years is not new. It was first thought of in 2015, and released to beta in early 2016. 
       * We've gone through five major versions, that's five releases of exciting new components and messy breaking changes. We've had huge successes, such as changing every instance of a major brand color and or the entire font profile of multiple brands almost at the flip of a switch.
       * We've had huge failures, components that go unused or outdated, JavaScript that does nothing but sit in a repository, and a number of late night patch releases. 
