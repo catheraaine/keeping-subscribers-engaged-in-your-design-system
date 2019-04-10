@@ -3,10 +3,10 @@ slides:
     markdown: false
     content: |
       <div class="slide-one">
-      <h1 class="slide-one__heading">Keeping Subscribers Engaged in Your Design System</h1>
-      <img class="slide-one__image slide-image" src="images/me.jpg" alt="a picture of cat at her desk" />
+      <h1 class="slide-one__heading" style="font-size: 4rem">Keeping Subscribers Engaged in Your Design System</h1>
+      <img class="slide-one__image slide-image" src="images/me.jpg" alt="a picture of cat at her desk" style="margin-bottom:-15rem;" />
       <h5><a href="https://github.com/catheraaine/keeping-subscribers-engaged-in-your-design-system" target="_blank">bit.ly/meade-design-systems</a></h5>
-      <h5><a href="https://speakerdeck.com/catheraaine/" target="_blank">speakerdeck.com/catheraaine</a></h5>
+      <h5 style="margin-top: 1.5rem;"><a href="https://speakerdeck.com/catheraaine/" target="_blank">speakerdeck.com/catheraaine</a></h5>
       </div>
     notes: |
 
@@ -39,7 +39,6 @@ slides:
       class: intros
 
     notes: |
-
       * I'm Catherine, I'm a full-stack developer (whatever that means).
       * I work at Sparkbox, a web design and development consultant in Dayton, Ohio.
       * That's me on Twitter
