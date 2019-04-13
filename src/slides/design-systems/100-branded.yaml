@@ -66,3 +66,16 @@ slides:
       * Consistent marketing of a design system—and its updates—helps keep subscribers engaged.
       * One way our design system encourages the adoption of version updates is by creating a "business case" for every major or minor version.
       * We send out email and messaging announcements with links to our release notes, a quick overview of what’s new and what’s changed, and an answer to the question, "Why Should I Update?" Writing a strong, persuasive answer to this question for every release has improved our subscriber buy-in quite a bit.
+  -
+    content: |
+      <img src="images/self-portrait-with-straw-hat.jpg" style="display:block;max-height:70vh" />
+      <p style="font-size:65%;margin-top:2rem;"><em>Self Portrait with Straw Hat</em>, 1887 by Vincent Van Gogh via <a href="https://www.vincentvangogh.org/self-portrait-with-straw-hat.jsp">VincentVanGogh.org</a></p>
+    
+    notes: |
+      * I wanted to come back to Van Gogh here. 
+      * Van Gogh did not become famous many decades after his death in 1891, but rather only a few years. 
+      * Van Gogh's works were largely inherited by his brother's widow, Jo.
+      * Jo shopped his paintings to many exhibitions, loaning it to museums, and promoting the works at the ground level. 
+      * Additionally, in 1914, Jo published Van Gogh's life story, along with a collection of letters written by him. 
+      * Funnily enough, sending newsletters worked for Van Gogh.
+      
