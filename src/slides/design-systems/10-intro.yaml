@@ -4,7 +4,7 @@ slides:
     content: |
       <div class="slide-one">
       <h1 class="slide-one__heading" style="font-size: 4rem">Keeping Subscribers Engaged in Your Design System</h1>
-      <img class="slide-one__image slide-image" src="images/me.jpg" alt="a picture of cat at her desk" style="margin-bottom: -4.5em;" />
+      <img class="slide-one__image slide-image" src="images/me.jpg" alt="an illustration of Catherine" />
       <h5><a href="https://github.com/catheraaine/keeping-subscribers-engaged-in-your-design-system" target="_blank">bit.ly/meade-design-systems</a></h5>
       <h5 style="margin-top: 1.5rem;"><a href="https://speakerdeck.com/catheraaine/" target="_blank">speakerdeck.com/catheraaine</a></h5>
       </div>
@@ -28,10 +28,10 @@ slides:
     
     notes: |
       * Van Gogh's life, however, was a terribly sad story with a tragic ending. While alive, he sold only a single painting, and that was to a family member. 
-      * Lots of jobs, like me
+      * Van Gogh held a plethora of jobs, first art studio aid, then teacher, then preacher. Fired from most of them. I've had a lot of jobs, too.
       * Maybe cut off his own ear. Maybe Paul Gauguin did it.
-      How is it posisble that one man with such a brilliant body of work was unable to make a living doing it?
-      *  Like Van Gogh's works, many design systems are objectively well-made, useful, and even beautiful. Also like Van Gogh's works, design systems can be hard to get people to buy into. 
+      * How is it possible that one man with such a brilliant body of work was unable to make a living doing it?
+      * Like Van Gogh's works, many design systems are objectively well-made, useful, and even beautiful. Also like Van Gogh's works, design systems can be hard to get people to buy into. 
       * So how do we as content creators do what Van Gogh couldn't, and get people to buy our paintings, er, design system?
   -
     content: |
@@ -52,5 +52,4 @@ slides:
       * That's me on Twitter
       * I use she/her pronouns.
       * I spent most of my last couple years building a single enterprise-level design system that supports a number of ecommerce sites built in a multitude of JavaScript frameworks, the largest of which is React.
-      * Also, though I've prepared a good 50 minutes of content for you, I talk fast when I'm nervous. I never hit that mark.
     

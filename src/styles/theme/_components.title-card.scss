@@ -3,9 +3,10 @@
 
   .slide-one {
     text-align: left;
-    background-color: rgba(#000, 0.25);
+    background-color: #25222D;
     border-radius: 2rem;
     width: 100%;
+    min-height: 85%;
     padding: 3rem;
     overflow: none;
 
@@ -17,14 +18,15 @@
     }
 
     &__image {
-      max-width: 35%;
-      margin-bottom: -3rem;
+      max-width: 39%;
+      margin-bottom: -5.5em;
       padding: 0;
     }
 
     &__image,
     &__heading {
       display: inline-block;
+      box-sizing: border-box;
     }
 
   }
