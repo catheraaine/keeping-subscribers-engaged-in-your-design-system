@@ -68,7 +68,7 @@ slides:
       * We send out email and messaging announcements with links to our release notes, a quick overview of what’s new and what’s changed, and an answer to the question, "Why Should I Update?" Writing a strong, persuasive answer to this question for every release has improved our subscriber buy-in quite a bit.
   -
     content: |
-      <img src="images/self-portrait-with-straw-hat.jpg" style="display:block;max-height:70vh" />
+      <img src="images/self-portrait-with-straw-hat.jpg" style="display:block;max-height:65vh" />
       <p style="font-size:65%;margin-top:2rem;"><em>Self Portrait with Straw Hat</em>, 1887 by Vincent Van Gogh via <a href="https://www.vincentvangogh.org/self-portrait-with-straw-hat.jsp">VincentVanGogh.org</a></p>
     
     notes: |

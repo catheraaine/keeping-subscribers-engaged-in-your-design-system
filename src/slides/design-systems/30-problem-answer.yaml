@@ -30,7 +30,7 @@ slides:
       * And still I end up asking myself this question on a regular basis. 
   -
     content: |
-      ![why do design systems fail?](/images/ds-survey-chart.png) <!-- .element: style="max-height:80vh" -->
+      ![why do design systems fail?](/images/ds-survey-chart.png) <!-- .element: style="max-height:65vh" -->
 
       [designsystemssurvey.seesparkbox.com](https://designsystemssurvey.seesparkbox.com/)
 

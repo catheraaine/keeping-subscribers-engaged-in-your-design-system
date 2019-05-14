@@ -10,14 +10,6 @@ slides:
       * Maybe. It's hard to tell with people. 
   
   -
-    content: |
-      ### ✨ Take the 2019 Sparkbox Design Systems Survey ✨
-      [bit.ly/sb-2019-survey](https://www.surveymonkey.com/r/V2SF3HL)
-
-    notes: |
-      * I'm supposed to tell you to take this survey if you're working in or around design systems. If you'd like to be a part of this year's data, check it out! 
-  
-  -
     markdown: false
     content: |
       <h5 class="util-margin-b050">Thanks!</h5>
@@ -25,7 +17,7 @@ slides:
         <img src="images/cat.svg" width="200" alt="An illustration of a smiling cat."/>
         <h2 class="name">Catherine Meade</h2>
         <h3 class="job-title util-margin-t0">Developer, Sparkbox</h3>
-        <h4 class="twitter"><a href="https://twitter.com/catheraaine" target="_blank">@catheraaine</a> | cat@heysparkbox.com</h4>
+        <h4 class="twitter"><a href="https://twitter.com/catheraaine" target="_blank">@catheraaine</a> | <a href="mailto:cat@heysparkbox.com">cat@heysparkbox.com</a></h4>
         <h4 class="twitter"><a href="https://github.com/catheraaine/keeping-subscribers-engaged-in-your-design-system" target="_blank">bit.ly/meade-design-systems</a></h4>
       </div>
 
@@ -39,6 +31,8 @@ slides:
   
   -
     content: |
+      <a href="https://twitter.com/catheraaine">@catheraaine</a> | <a href="mailto:cat@heysparkbox.com">cat@heysparkbox.com</a>
+      
       ### ✨ Resources ✨ <!-- .element style="font-size: 85%" -->
       Slide Repository | [bit.ly/meade-design-systems](https://github.com/catheraaine/keeping-subscribers-engaged-in-your-design-system)
 
@@ -47,5 +41,3 @@ slides:
       Foundry Article | [http://bit.ly/ds-foundry](https://seesparkbox.com/foundry/keeping_subscribers_engaged_in_your_design_system)
       
       Design Systems Survey 2018 | [designsystemssurvey.seesparkbox.com](https://designsystemssurvey.seesparkbox.com/)
-      
-      Take the 2019 Design Systems Survey | [bit.ly/sb-2019-survey](https://www.surveymonkey.com/r/V2SF3HL)

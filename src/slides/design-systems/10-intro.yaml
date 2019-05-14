@@ -15,7 +15,7 @@ slides:
         class: title-card
   -
     content: |
-      <img src="images/self-portrait-with-straw-hat.jpg" style="display:block;max-height:70vh" />
+      <img src="images/self-portrait-with-straw-hat.jpg" style="display:block;max-height:60vh" />
       <p style="font-size:65%;margin-top:2rem;"><em>Self Portrait with Straw Hat</em>, 1887 by Vincent Van Gogh via <a href="https://www.vincentvangogh.org/self-portrait-with-straw-hat.jsp">VincentVanGogh.org</a></p>
     notes: |
       * I wanted to start today by telling you the story of Vincent Van Gogh. Van Gogh is a famous Dutch painter, some people even say the best of all time, next to Rembrandt. 
@@ -23,7 +23,7 @@ slides:
       * His "Starry Night" painting is available as phone cases, cross-stitch patterns, and cosmetic items in video games like "Apex Legends." There are movies, books, and tv shows about him, including my all time favorite episode of "Doctor Who." 
   -
     content: |
-      <img src="images/self-portrait-with-straw-hat.jpg" style="display:block;max-height:70vh" />
+      <img src="images/self-portrait-with-straw-hat.jpg" style="display:block;max-height:60vh" />
       <p style="font-size:65%;margin-top:2rem;"><em>Self Portrait with Straw Hat</em>, 1887 by Vincent Van Gogh via <a href="https://www.vincentvangogh.org/self-portrait-with-straw-hat.jsp">VincentVanGogh.org</a></p>
     
     notes: |
