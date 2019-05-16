@@ -63,9 +63,10 @@ slides:
 
     notes: | 
       * One of the newest efforts our team has been working on is a "virtual learning library," which is a repository of recorded knowledge 
-      * Whenever we teach or demo something, while in meetings, or pairing, or whatever, we record it and add the link to a common repository. 
+      * Whenever we teach or demo something, while in meetings, or pairing, or whatever, we try to record it and add the link to a common repository. 
       * This way, people can teach themselves on their own, as needed. Information is no longer bottlenecked by a single person.
-      * Our Library lives in our wiki, and there's a link in every chat channel. 
+      * Our Library lives in our wiki, and there's a link in the chat channels. 
+      * A virtual learning library is an excellent tool for onboarding, by the way.
   -
     content: |
       ###### Build Something Teachable <!-- .element: class="short-title" -->

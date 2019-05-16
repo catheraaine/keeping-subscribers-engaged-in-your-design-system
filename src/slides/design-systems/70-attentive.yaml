@@ -9,7 +9,6 @@ slides:
     notes: |
       * An attentive design system is one that listens to what its subscribers are saying about it. 
       * This may sound similar to "desireable" or even "teachable," however, being an attentive design system means really absorbing the feedback you gather.
-      * Provide a path for subscribers to submit feedback and ask questions. 
 
   -
     content: |
@@ -17,6 +16,7 @@ slides:
       ## Listen to your customer.
 
     notes: |
+      * Provide a path for subscribers to submit feedback and ask questions. 
       * Our design system team set up a dedicated channel in Slack and Microsoft Teams, allowing constant contact with subscribers. 
       * We’ve also added a link to our documentation site that goes to a Google Form for those who wish to provide anonymous feedback. 
   -
