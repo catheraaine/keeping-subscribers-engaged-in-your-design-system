@@ -16,6 +16,7 @@ slides:
       ## Design System
     notes: |
       * So what is a design system?
+      *
       * The origins of a design system started in print, with what any classically trained graphic designer or writer may know as a "style guide."
 
   -
@@ -57,7 +58,6 @@ slides:
       * A design system can be a architeture device that provides both brand expression and completed components,
       * It can be a 'pattern library' as a place to copy-and-paste common code snippets, 
       * It can be a style guide, providing color palette, fonts, iconography, and animations, as well as tone and voice guidelines and so much more.
-      * Whatever a design system means to you and your team, eventually we all ask the question, “How do we encourage people to keep using our design system?”
 
   -
     content: |
@@ -69,3 +69,10 @@ slides:
       * In this case, a "subscriber" is someone who will implement the design system on a larger body of work.
       * A subscriber can be a developer, designer, copy-writer, or product manager or owner.
       * These sub-groups have different needs, and it may be worthwhile to identify which groups have a vested interest in each specific area of your system.
+
+  -
+    content: |
+      ###### Define: <!-- .element: class="short-title" -->
+      ## Design System
+    notes: |
+      * Whatever a design system means to you and your team, eventually we all ask the question, “How do we encourage people to keep using our design system?”

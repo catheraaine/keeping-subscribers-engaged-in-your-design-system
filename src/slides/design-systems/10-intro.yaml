@@ -18,8 +18,8 @@ slides:
       <img src="images/self-portrait-with-straw-hat.jpg" style="display:block;max-height:60vh" />
       <p style="font-size:65%;margin-top:2rem;"><em>Self Portrait with Straw Hat</em>, 1887 by Vincent Van Gogh via <a href="https://www.vincentvangogh.org/self-portrait-with-straw-hat.jsp">VincentVanGogh.org</a></p>
     notes: |
-      * I wanted to start today by telling you the story of Vincent Van Gogh. Van Gogh is a famous Dutch painter, some people even say the best of all time, next to Rembrandt. 
-      * During his most prolific decade, Van Gogh painted almost 900 works, icluding landscapes, self-portraits, sunflowers, and more.
+      * I wanted to start today by telling you the story of Vincent Van Gogh. Van Gogh is a famous Dutch painter. Some people even say he is the best painter of all time, next to Rembrandt. 
+      * During his most prolific decade, Van Gogh painted almost 900 works, including landscapes, self-portraits, sunflowers, and more.
       * His "Starry Night" painting is available as phone cases, cross-stitch patterns, and cosmetic items in video games like "Apex Legends." There are movies, books, and tv shows about him, including my all time favorite episode of "Doctor Who." 
   -
     content: |
@@ -28,10 +28,11 @@ slides:
     
     notes: |
       * Van Gogh's life, however, was a terribly sad story with a tragic ending. While alive, he sold only a single painting, and that was to a family member. 
-      * Van Gogh held a plethora of jobs, first art studio aid, then teacher, then preacher. Fired from most of them. I've had a lot of jobs, too.
-      * Maybe cut off his own ear. Maybe Paul Gauguin did it.
+      * Van Gogh held a plethora of jobs, first art studio aid, then teacher, then preacher. Fired from most of them. (I taught high school art before I became a developer.)
+      * Maybe cut off his own ear. Maybe Paul Gauguin did it. (...)
       * How is it possible that one man with such a brilliant body of work was unable to make a living doing it?
-      * Like Van Gogh's works, many design systems are objectively well-made, useful, and even beautiful. Also like Van Gogh's works, design systems can be hard to get people to buy into. 
+      * Like Van Gogh's works, many design systems are objectively well-made, useful, and even beautiful.
+      * Also like Van Gogh's works, design systems can be hard to get people to buy into. 
       * So how do we as content creators do what Van Gogh couldn't, and get people to buy our paintings, er, design system?
   -
     content: |
